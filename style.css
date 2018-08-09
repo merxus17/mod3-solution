@@ -1,0 +1,79 @@
+
+		.navbar-brand {
+			float: left;
+		}
+		body
+		{
+			background-color:red;
+
+
+		}
+
+		#header-nav
+		{
+			background-color: #FFC200;
+			border-radius: 0;
+			border:0;
+
+
+		}
+
+
+		.titulo {
+			font-size: 260%;
+			color: #FFC200;
+		}
+
+		.navbar-brand a:hover, .navbar-brand a:focus 
+		{
+		  text-decoration: none;
+		}
+
+		#barra {
+			margin:10px;
+		}
+
+		#nome {
+			font-size: 140%;
+			color:red;
+		}
+		.paragrafo
+		{
+			height: 1000px;
+			background-color: #FFC200;
+			color:red;
+			padding: 15px;
+			
+
+		}
+
+		h2 {
+			text-align: center;
+		}
+		.elemento
+		{
+			margin-right: 15px;
+			margin-left: 15px;
+			margin-bottom: 40px;
+		}
+		.elementos {
+			width: 95%;
+			margin-left: auto;
+			margin-right: auto;
+		}
+				
+		.navbar-toggle {
+			background-color: #FFC200;
+
+		}
+
+		.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid red;
+}
+
+
+.option 
+{
+	text-align: center;
+	color: red;
+}
